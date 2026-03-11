@@ -1,0 +1,5 @@
+{
+  "name": "ETD Logbook Manager",
+  "description": "Digital logbook for managing ETD machine distribution at Dubai International Airport boarding gates.",
+  "requestFramePermissions": []
+}
